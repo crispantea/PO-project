@@ -1,0 +1,6 @@
+package xxl.observers;
+
+public interface Observer {
+    
+    public void update();
+}
