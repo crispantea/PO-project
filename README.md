@@ -3,7 +3,7 @@ Object-Oriented Programming Project
 
 Problem description in Portuguese
 
-The projects were done in collaboration with: https://github.com/crispantea
+The projects were done in collaboration with: https://github.com/RodrigoPerestrelo
 
 ## UML project:
 2.25/3
